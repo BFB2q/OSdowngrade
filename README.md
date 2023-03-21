@@ -47,6 +47,7 @@ for example mine is octopus: "stable-channel-octopus" remember it for later
 10) If it does, you have done it right! To revert just restart your chromebook. You can keep the USB as is to use again if something goes wrong. NOTE: you can't use the USB as you will have to format it.
 
 Now with downgrading out the way it's time to do the actual extension hack (Luckily this is a simple process)
+----------------------------------------------------------------------------------------------------------------------------
 
 1) go to https://pastebin.com/raw/EugX5nk4 or https://pastebin.com/raw/GfNXgGve and copy all the code on the site
 
