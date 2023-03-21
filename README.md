@@ -1,4 +1,8 @@
 # OSdowngrade
+
+IF YOUR HAVIG ANY TROUBLES WITH PART 2 OF UNBLOCKING SCROLL ALL THE WAY DOWN ON THIS SITE
+----------------------------------------------------------------------------------------------
+
 This is a simple tool/steps for chromeOS. This includes downgrading chromeOS and then running LTBEEF/Ingot
 --------------------------------------------------------------------------------------------
 
@@ -49,7 +53,7 @@ for example mine is octopus: "stable-channel-octopus" remember it for later
 Now with downgrading out the way it's time to do the actual extension hack (Luckily this is a simple process)
 ----------------------------------------------------------------------------------------------------------------------------
 
-1) go to https://pastebin.com/raw/EugX5nk4 or https://pastebin.com/raw/GfNXgGve and copy all the code on the site
+1) go to https://pastebin.com/raw/EugX5nk4 (INGOT) or https://pastebin.com/raw/GfNXgGve (LTBEEF and copy all the code on the site
 
 2) make a new bookmark and put the code you just copied into it and name it anything
 
@@ -58,3 +62,9 @@ Now with downgrading out the way it's time to do the actual extension hack (Luck
 4) on the site disable any extension you don't want
 
 Thanks all credit goes to the interstellar staff team and the code makers of LTBEEF and Ingot
+
+UPDATE 1
+____________________________________________________________
+For some people "chrome.google.com/webstorex is blocked and chrome.google.com/webstore_ doesnt work
+Use "https://chrome.google.com/webstoreHIBDD" (credit goes to 'https://bypasses.net/') MAKE SURE TO USE INGOT LTBEEF DOESNT WORK IN THiS CASE
+INGOT: https://pastebin.com/raw/EugX5nk4
