@@ -53,7 +53,7 @@ for example mine is octopus: "stable-channel-octopus" remember it for later
 Now with downgrading out the way it's time to do the actual extension hack (Luckily this is a simple process)
 ----------------------------------------------------------------------------------------------------------------------------
 
-1) go to https://pastebin.com/raw/EugX5nk4 (INGOT) or https://pastebin.com/raw/GfNXgGve (LTBEEF and copy all the code on the site
+1) go to https://pastebin.com/raw/EugX5nk4 (INGOT) or https://pastebin.com/raw/GfNXgGve (LTBEEF) and copy all the code on the site
 
 2) make a new bookmark and put the code you just copied into it and name it anything
 
