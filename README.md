@@ -13,7 +13,7 @@ Before we get started I want to address a few thing:
 I have not made/contributed into ANY of the steps/code/methods. All code will be credited to the owner. 
 
 Important Links:
-stars-delta.vercel.app This is an exploit/proxy/hack site; if the link is blocked dont worry there are alternative links. Simply join the discord --https://discord.com/invite/zDrJ6cErBC-- and head over to #community-link there will be tons of alternative links.
+stars-delta.vercel.app This is an exploit/proxy/hack site; if the link is blocked dont worry there are alternative links. Simply join the discord --https://discord.com/invite/zDrJ6cErBC -- and head over to #community-link there will be tons of alternative links.
 https://github.com/3kh0/ext-remover this link was used to test the status of extension disablers (all of them are blocked on the latest chrome version (111.0)
 
 Alright let's get into it
