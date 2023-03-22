@@ -72,3 +72,4 @@ ____________________________________________________________
 For some people "chrome.google.com/webstorex is blocked and chrome.google.com/webstore_ doesnt work
 Use "https://chrome.google.com/webstoreHIBDD" (credit goes to 'https://bypasses.net/') MAKE SURE TO USE INGOT, LTBEEF DOESNT WORK IN THiS CASE
 INGOT: https://pastebin.com/raw/EugX5nk4
+
