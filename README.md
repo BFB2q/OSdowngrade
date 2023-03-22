@@ -29,9 +29,12 @@ A personal Computer
 for example mine is octopus: "stable-channel-octopus" remember it for later
 
 
-2) ON YOUR PERSONAL COMPUTER go to https://chrome100.dev/ and find your board name (using ctrl + f is helpful)        
+2) ON YOUR PERSONAL COMPUTER go to https://chrome100.dev/ and find your board name (using ctrl + f is helpful)    
+    
    2a) Click "see more"
+   
    2b) Scroll to board names
+   
 
 3) You want to find any version below 105 (version 81 is highly recommended though)
 
