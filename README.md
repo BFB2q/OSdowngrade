@@ -7,14 +7,15 @@ This is a simple tool/steps for chromeOS. This includes downgrading chromeOS and
 --------------------------------------------------------------------------------------------
 
 Extension Disabler for chrome version 105 or above, (111.0 is the current version and LTBEEF and ingot are patched)
-DISCLAIMER: THIS IS NOTHING NEW I HAVE JUST COMPILED ALL THE INFORMATION INTO ONE EASY TO ACCESS THREAD
+DISCLAIMER: THIS IS NOTHING NEW I HAVE JUST COMPILED ALL THE INFORMATION INTO ONE EASY TO ACCESS THREAD --CC-
 
 Before we get started I want to address a few thing:
-I have not made/contributed into ANY of the steps/code/methods. All code will be credited to the owner. 
+I have not made/contributed into ANY of the steps/code/methods. All code will be credited to the owner. --CC--
 
 Important Links:
 stars-delta.vercel.app This is an exploit/proxy/hack site; if the link is blocked dont worry there are alternative links. Simply join the discord --https://discord.com/invite/zDrJ6cErBC -- and head over to #community-link there will be tons of alternative links.
 https://github.com/3kh0/ext-remover this link was used to test the status of extension disablers (all of them are blocked on the latest chrome version (111.0)
+--CC--
 
 Steps
 ----------------------------------------------------------------------------------------------------------------------
@@ -67,7 +68,7 @@ Now with downgrading out the way it's time to do the actual extension hack (Luck
 
 Thanks all credit goes to the interstellar staff team and the code makers of LTBEEF and Ingot
 
-CREDITS
+CREDITS --CC--
 -------------------------------------------------------------------------------------------
 BUB (owner of interstellar and the discord):
 If you want to read the message I sent him here it is: https://pastebin.com/raw/vqBJtgZm
