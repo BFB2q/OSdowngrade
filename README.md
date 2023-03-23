@@ -1,6 +1,4 @@
 # OSdowngrade
-OSDOWNGRADE HAS SHUT DOWN DUE TO CC ISSUES THANKS EVERYONE FOR THERE TIME AND PATIENCE, JOIN THE INTERSTELLAR DISCORD NEW HACKS AND THIS METHOD. 
---------------------------------------------------------------------------------------------------------------------
 
 IF YOUR HAVING ANY TROUBLES WITH PART 2 OF UNBLOCKING SCROLL ALL THE WAY DOWN ON THIS SITE
 ----------------------------------------------------------------------------------------------
@@ -16,9 +14,7 @@ I have not made/contributed into ANY of the steps/code/methods. All code will be
 
 Important Links:
 stars-delta.vercel.app This is an exploit/proxy/hack site; if the link is blocked dont worry there are alternative links. Simply join the discord --https://discord.com/invite/zDrJ6cErBC -- and head over to #community-link there will be tons of alternative links.
-https://github.com/3kh0/ext-remover this link was used to test the status of extension disablers (all of them are blocked on the latest chrome version (111.0)
---CC--
-
+If your looking for the Ekh0_ link I can write a pastebin about how its not CC, if you want me to let me know
 Steps
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -75,8 +71,6 @@ CREDITS --CC--
 BUB (owner of interstellar and the discord):
 If you want to read the message I sent him here it is: https://pastebin.com/raw/vqBJtgZm
 ![Screenshot 2023-03-22 205740](https://user-images.githubusercontent.com/73242022/227079869-680effb9-1872-4a15-b849-b9a90f149111.png)
-3kh0_: (made the link "https://github.com/3kh0/ext-remover" to test the workings of methods within chrome version 111
-PENDING
 
 
 
