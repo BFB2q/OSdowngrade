@@ -67,6 +67,16 @@ Now with downgrading out the way it's time to do the actual extension hack (Luck
 
 Thanks all credit goes to the interstellar staff team and the code makers of LTBEEF and Ingot
 
+CREDITS
+-------------------------------------------------------------------------------------------
+BUB (owner of interstellar and the discord):
+If you want to read the message I sent him here it is: https://pastebin.com/raw/vqBJtgZm
+![Screenshot 2023-03-22 205740](https://user-images.githubusercontent.com/73242022/227079869-680effb9-1872-4a15-b849-b9a90f149111.png)
+3kh0_: (made the link "https://github.com/3kh0/ext-remover" to test the workings of methods within chrome version 111
+PENDING
+
+
+
 UPDATE 1
 ____________________________________________________________
 For some people "chrome.google.com/webstorex is blocked and chrome.google.com/webstore_ doesnt work
