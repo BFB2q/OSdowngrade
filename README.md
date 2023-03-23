@@ -1,4 +1,6 @@
 # OSdowngrade
+OSDOWNGRADE HAS SHUT DOWN DUE TO CC ISSUES THANKS EVERYONE FOR THERE TIME AND PATIENCE, JOIN THE INTERSTELLAR DISCORD NEW HACKS AND THIS METHOD. 
+--------------------------------------------------------------------------------------------------------------------
 
 IF YOUR HAVING ANY TROUBLES WITH PART 2 OF UNBLOCKING SCROLL ALL THE WAY DOWN ON THIS SITE
 ----------------------------------------------------------------------------------------------
