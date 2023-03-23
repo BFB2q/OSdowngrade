@@ -1,6 +1,6 @@
 # OSdowngrade
 
-IF YOUR HAVIG ANY TROUBLES WITH PART 2 OF UNBLOCKING SCROLL ALL THE WAY DOWN ON THIS SITE
+IF YOUR HAVING ANY TROUBLES WITH PART 2 OF UNBLOCKING SCROLL ALL THE WAY DOWN ON THIS SITE
 ----------------------------------------------------------------------------------------------
 
 This is a simple tool/steps for chromeOS. This includes downgrading chromeOS and then running LTBEEF/Ingot
