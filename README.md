@@ -7,10 +7,10 @@ This is a simple tool/steps for chromeOS. This includes downgrading chromeOS and
 --------------------------------------------------------------------------------------------
 
 Extension Disabler for chrome version 105 or above, (111.0 is the current version and LTBEEF and ingot are patched)
-DISCLAIMER: THIS IS NOTHING NEW I HAVE JUST COMPILED ALL THE INFORMATION INTO ONE EASY TO ACCESS THREAD --CC-
+DISCLAIMER: THIS IS NOTHING NEW I HAVE JUST COMPILED ALL THE INFORMATION INTO ONE EASY TO ACCESS THREAD 
 
 Before we get started I want to address a few thing:
-I have not made/contributed into ANY of the steps/code/methods. All code will be credited to the owner. --CC--
+I have not made/contributed into ANY of the steps/code/methods. All code will be credited to the owner.
 
 Important Links:
 stars-delta.vercel.app This is an exploit/proxy/hack site; if the link is blocked dont worry there are alternative links. Simply join the discord --https://discord.com/invite/zDrJ6cErBC -- and head over to #community-link there will be tons of alternative links.
