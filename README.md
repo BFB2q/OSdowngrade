@@ -14,8 +14,12 @@ I have not made/contributed into ANY of the steps/code/methods. All code will be
 
 Important Links:
 stars-delta.vercel.app This is an exploit/proxy/hack site; if the link is blocked dont worry there are alternative links. Simply join the discord --https://discord.com/invite/zDrJ6cErBC -- and head over to #community-link there will be tons of alternative links.
-If your looking for the Ekh0_ link I can write a pastebin about how its not CC, if you want me to let me know
+If your looking for the Ekh0_ link I can write a pastebin about how its not CC, if you want me to, let me know
+
+------------------------------------------------------------------------------------------------------------------------
+
 Steps
+
 ----------------------------------------------------------------------------------------------------------------------
 
 Knowing the latest version of chrome has blocked we have to downgrade
