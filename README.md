@@ -90,3 +90,13 @@ For some people "chrome.google.com/webstorex is blocked and chrome.google.com/we
 Use "https://chrome.google.com/webstoreHIBDD" (credit goes to 'https://bypasses.net/') MAKE SURE TO USE INGOT, LTBEEF DOESNT WORK IN THIS CASE
 INGOT: https://pastebin.com/raw/EugX5nk4
 
+Update 2
+-------------------------------------------------------------
+If your having any troubles with your USB flash drive after using the CRU (with it not showing up or format issues) do the following:
+1) Go to the CRU extension (https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm) --if you dont have it yet--
+2) Click the gear in the top left corner
+  2a) Select "Erase Recovery Media"
+  2b) Select the USB flash drive
+  2c) Follow the prompts
+You might need to format it AGAIN in file explorer in order for it turn back to normal (It will pop up when you try to open it)
+
