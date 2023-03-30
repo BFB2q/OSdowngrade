@@ -32,6 +32,8 @@ A personal Computer
 for example mine is octopus: "stable-channel-octopus" remember it for later
 
 1a) If your having trouble with finding your board name or its blocked it can be found. (This image was on the sh1mmer.me site --a unenroll tool for chromebooks--)
+
+
 ![Screenshot 2023-03-29 at 7 39 12 PM](https://user-images.githubusercontent.com/73242022/228700156-1ff543f5-a1f2-4cd8-ac64-40ac03f005fd.png)
 
 
