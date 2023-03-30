@@ -100,7 +100,7 @@ If your having any troubles with your USB flash drive after using the CRU (with 
   2c) Follow the prompts
 You might need to format it AGAIN in file explorer in order for it turn back to normal (It will pop up when you try to open it)
 
-UPDATE 3
+Update 3
 -----------------------------------------------------------------------------------------------------------------
 
 Following update 1 when going to "ttps://chrome.google.com/webstoreHIBDD" it can present A privacy error on some versions. just type in "thisisunsafe" no spaces, no capitals. Just that. After so follow the normal steps by activating ingot and so on and so forth.
