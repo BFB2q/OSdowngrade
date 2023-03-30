@@ -45,7 +45,7 @@ for example mine is octopus: "stable-channel-octopus" remember it for later
    2b) Scroll to board names
    
 
-3) You want to find any version below 105 (version 81 is highly recommended though)
+3) You want to find any version below 105 (version 81 or 105 is highly recommended though)
 
    3b) to find the version that goes under the chrome label and the whole entire thing before the first "." is the version. For example: for "81.0.4044.141" the version would be 81
 
