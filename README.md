@@ -1,6 +1,8 @@
 # OSdowngrade
 
 IF YOUR HAVING ANY TROUBLES WITH PART 2 OF UNBLOCKING SCROLL ALL THE WAY DOWN ON THIS SITE
+
+DISCLAIMER: JUSE USE LTMEAT! IF THIS WORKS FOR YOU GREAT, IF NOT USE LTMEAT. WHAT IT IS AND HOW TO USE CAN BE FOUND HERE "https://ltmeat.bypassi.com/". IM NOT UPDATING THIS ANYMORE!!
 ----------------------------------------------------------------------------------------------
 
 This is a simple tool/steps for chromeOS. This includes downgrading chromeOS and then running LTBEEF/Ingot
@@ -104,3 +106,6 @@ Update 3
 -----------------------------------------------------------------------------------------------------------------
 
 Following update 1 when going to "ttps://chrome.google.com/webstoreHIBDD" it can present A privacy error on some versions. just type in "thisisunsafe" no spaces, no capitals. Just that. After so follow the normal steps by activating ingot and so on and so forth.
+
+------------------------------------------------------------------------------------------------------------------
+Final Changes, it will not be updated!
